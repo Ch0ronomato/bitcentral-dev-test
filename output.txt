@@ -1,0 +1,9 @@
+Title: My Aircraft	Type: video	Source: aircraft_webproxy.mp4	Thumbnail: C:\BasicDevTest\Media\aircraft_tn.png
+Title: Birds on the Beach	Type: video	Source: beach_webproxy.mp4	Thumbnail: C:\BasicDevTest\Media\beach1_tn.png
+Title: Castle	Type: video	Source: castle_webproxy.mp4	Thumbnail: C:\BasicDevTest\Media\castle_tn.png
+Title: Military Helicopter	Type: video	Source: chinook_webproxy.mp4	Thumbnail: C:\BasicDevTest\Media\chinook_tn.png
+Title: Indian Music	Type: audio	Source: krish.mp3	Thumbnail: 
+Title: Beach Plants	Type: video	Source: seagrape_webproxy.mp4	Thumbnail: 
+Title: Sea Lion	Type: video	Source: sealion_webproxy.mp4	Thumbnail: C:\BasicDevTest\Media\sealion_tn.png
+Title: Sea Shells	Type: video	Source: seashells_webproxy.mp4	Thumbnail: C:\BasicDevTest\Media\seashells_tn.png
+Title: Spring	Type: video	Source: spring_webproxy.mp4	Thumbnail: C:\BasicDevTest\Media\spring_tn.png
